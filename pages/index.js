@@ -17,7 +17,7 @@ export default function Home() {
           name="description"
           content="Software developer portfolio using Next.js & tailwind CSS."
         />
-        <link rel="icon" href="/favicon-32x32.png" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
 
       <div className="max-w-7xl m-auto">
