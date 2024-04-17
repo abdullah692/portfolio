@@ -5,7 +5,7 @@ const data = [
     job_title: "Software Engineer",
     company: "Quanrio LLP",
     description:
-      "I have experience working on a wide range of projects, utilizing technologies such as React, React Native, Flutter and Next.js. I am responsible for delivering high-quality solutions and have a proven track record of success in leading and managing teams. My skills in problem-solving and creative thinking allow me to approach projects with a fresh perspective and come up with innovative solutions. I am always eager to stay up-to-date with the latest industry trends and technologies, and I am excited to continue my growth as a software engineer. With my excellent communication and teamwork skills, I am confident that I can make a valuable contribution to any project or team.",
+      "As a Software Engineer at Quanrio ,with experience in various technologies like React, React Native, and Next.js, I've worked on a wide range of projects. I'm responsible for delivering quality solutions and have a track record of leading teams effectively. Proficient in Git, I facilitate efficient code collaboration and management, fostering smooth workflows and timely project delivery.  I'm always eager to learn about new industry trends and technologies to grow as a software engineer. ",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const data = [
     job_title: "Software Design Engineer",
     company: "Teresol Pvt Lmt.",
     description:
-      "As a software engineer at securiti.ai working on Vue.js, my primary responsibility is to develop and maintain software applications and tools that leverage the Vue.js framework. Vue.js is a popular progressive JavaScript framework used for building user interfaces and single-page applications. My job would involve designing, implementing, and testing new features and functionality for securiti.ai's software products using Vue.js. I work closely with other software engineers, product managers, and designers to ensure that the software meets customer needs and requirements.",
+      "In my role as a Software Engineer at Teresol, I specialize in Vue.js development, focusing on designing dynamic user interfaces for the Bank Al Habib app. I utilize Vue.js to implement features such as Vuex for centralized state control and integrate microservices into a Finite State Machine architecture. Additionally, I'm responsible for developing and integrating use cases, leveraging megasets to enhance functionality. Collaborating closely with cross-functional teams including software engineers, product managers, and designers, I ensure that our software products meet and exceed customer expectations.",
   },
 ];
 

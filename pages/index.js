@@ -4,6 +4,7 @@ import Head from "next/head";
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import Experiences from "../components/Experiences";
+import Skills from "../components/Skills"
 import Works from "../components/Works";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
@@ -24,6 +25,7 @@ export default function Home() {
         <Navbar />
         <Hero />
         <Experiences />
+        <Skills/>
         <Works />
         <Contact />
         <Footer />

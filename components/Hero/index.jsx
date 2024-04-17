@@ -7,7 +7,7 @@ import { FiLinkedin, FiGithub, FiTwitter } from "react-icons/fi";
 import { FaFacebookF } from "react-icons/fa";
 import Link from "next/link";
 import { resumeUrl } from "../../constants";
-// import resume from "assets/files/resume.pdf";
+import MySVGFile from '../../assets/images/vue-svgrepo-com.svg';// import resume from "assets/files/resume.pdf";
 
 const Hero = () => {
   return (
@@ -86,6 +86,9 @@ const Hero = () => {
             </a>
           </li>
         </ul>
+
+        {/* <img src={"file:///C:/Users/Syscom/Downloads/vue-svgrepo-com.svg"} alt="SVG Image" /> */}
+        
       </div>
     </div>
   );

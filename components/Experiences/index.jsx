@@ -18,7 +18,7 @@ const Experiences = () => {
                 className="bg-[#3b214e] p-4 rounded hover:bg-[#301B3F] relative"
                 title={`${experience.job_title} @${experience.company}`}
               >
-                <b className="text-[#301B3F] text-sm bg-white py-1 px-2 rounded absolute left-3 -top-2 hover:bg-teal-500 hover:text-white">
+                <b className="text-[#301B3F] text-sm bg-white py-1 px-2 rounded absolute left-3 -top-2 hover:bg-[#835994] hover:text-white">
                   {experience.company}
                 </b>
                 <h2 className="mt-4 mb-2 text-xl font-bold text-[#be41e8]">

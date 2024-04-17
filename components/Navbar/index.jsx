@@ -42,7 +42,7 @@ const Navbar = () => {
           >
             <a
               href="#experiences"
-              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-teal-400"
+              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#754986]"
               onClick={() => closeMenu()}
             >
               Experiences
@@ -51,16 +51,25 @@ const Navbar = () => {
           <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Projects">
             <a
               href="#projects"
-              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-teal-400"
+              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#754986]"
               onClick={() => closeMenu()}
             >
               Projects
             </a>
           </li>
+          <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Skills">
+            <a
+              href="#skill"
+              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#754986]"
+              onClick={() => closeMenu()}
+            >
+              Skills
+            </a>
+          </li>
           <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Contact">
             <a
               href="#contact"
-              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-teal-400"
+              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#754986]"
               onClick={() => closeMenu()}
             >
               Contact
