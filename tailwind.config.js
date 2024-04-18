@@ -9,6 +9,10 @@ module.exports = {
       fontFamily: {
         "roboto-mono": ["Roboto Mono", "monospace"],
       },
+      images: {
+        'profile': '/assets/images/profile.jpeg',
+        // Add more image URLs as needed
+      },
     },
   },
   plugins: [],
