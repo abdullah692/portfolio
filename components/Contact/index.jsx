@@ -6,8 +6,8 @@ import { FaLinkedinIn, FaCodepen, FaGithub,FaFacebookF } from "react-icons/fa";
 const Contact = () => {
   return (
     <div className="py-8 pb-0 px-2 max-w-6xl m-auto sm:py-20" id="contact">
-      <h1 className="text-3xl text-[#754986] font-bold sm:text-5xl">
-        Feel free, <br /> Say hi;
+      <h1 className="text-1xl text-[#754986] font-bold sm:text-3xl">
+      Greetings, <br /> Connect with me;
       </h1>
       <div className="my-10 grid grid-cols-2 gap-0 lg:grid-cols-5 sm:grid-cols-3 sm:gap-4">
         <ul>

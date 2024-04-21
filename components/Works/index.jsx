@@ -33,6 +33,7 @@ const Works = () => {
                   <h2 className="text-2xl text-white font-bold my-5 mb-2">
                     {work.work_title}
                   </h2>
+                  <p>{work.sub_title}</p>
                   <b className="text-teal-500 mb-2">⎯⎯ {work.genre}</b>
                   <p className="text-gray-300 text-sm leading-6 m-0">
                     {work.description}

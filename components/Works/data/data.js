@@ -12,11 +12,12 @@ const data = [
   {
     id: 2,
     image_url: "https://www.trybasket.com/LogoHorizontal.svg",
-    work_title: "Basket",
+    work_title: "One Game",
+    sub_title: "The Game App",
     description:
       "Make shopping effortless with a single basket for all the things you love.",
     genre: "E-commerce",
-    url: "https://www.trybasket.com/",
+    url: "https://gaming-app-dun.vercel.app/",
   },
 ];
 
