@@ -1,24 +1,26 @@
 const data = [
+  
   {
     id: 1,
-    image_url:
-      "https://play-lh.googleusercontent.com/3uXnP_ec9cnC--lCRbKML1P0CcR7y_J8NDTLcO7oyhR_6EVMdEz_laTekxyP1kbkCRX1=w240-h480-rw",
-    work_title: "Career Connect",
+    image_url: "OneGameLogo.png",
+    work_title: "The One Game",
+    sub_title: "The Game App",
     description:
-      "Career Counselling & Education for everyone from all the age groups",
-    genre: "Education",
-    url: "https://play.google.com/store/apps/details?id=club.careerconnect.app&hl=en&gl=US",
+      "One Game: Where gaming meets earnings, gems and  bitcoin at a time.",
+    genre: "Game-Earn",
+    url: "https://gaming-app-dun.vercel.app/",
   },
   {
     id: 2,
-    image_url: "https://www.trybasket.com/LogoHorizontal.svg",
-    work_title: "One Game",
-    sub_title: "The Game App",
+    image_url:
+      "GenesisHealth.png",
+    work_title: "Genesis Health",
     description:
-      "Make shopping effortless with a single basket for all the things you love.",
-    genre: "E-commerce",
-    url: "https://gaming-app-dun.vercel.app/",
+    "Genesis Health: Seamlessly book and manage your dentist appointments for a brighter smile.",
+    genre: "Health",
+    url: "https://patient-booking-ou0eudmnu-abdullah-siddiquis-projects.vercel.app/",
   },
+  
 ];
 
 export default data;
