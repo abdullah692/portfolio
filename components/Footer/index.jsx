@@ -98,7 +98,7 @@ const Footer = () => {
             Abdullah Siddiqui
           </a>{" "}
           <br />
-          The Career Connect and Basket logos are trademarks of their respective
+          The One Game and Genesis Health are trademarks of their respective
           owners.
         </h5>
       </div>

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import styles from "../../styles/Navbar.module.css";
-import ProfileImage from "../../assets/images/profile.jpeg";
+import ProfileImage from "../../assets/images/profile1.jpeg";
 import Image from "next/image";
 const Navbar = () => {
   const [menuOpen, SetMenuOpen] = useState(false);
@@ -48,15 +48,6 @@ const Navbar = () => {
               Experiences
             </a>
           </li>
-          <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Projects">
-            <a
-              href="#projects"
-              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#754986]"
-              onClick={() => closeMenu()}
-            >
-              Projects
-            </a>
-          </li>
           <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Skills">
             <a
               href="#skill"
@@ -66,6 +57,16 @@ const Navbar = () => {
               Skills
             </a>
           </li>
+          <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Projects">
+            <a
+              href="#projects"
+              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#754986]"
+              onClick={() => closeMenu()}
+            >
+              Projects
+            </a>
+          </li>
+          
           <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Contact">
             <a
               href="#contact"
