@@ -10,7 +10,7 @@ A responsive and open source portfolio for software developers (Next.js & Tailwi
 
 ## Website Screenshot
 
-<img src="./Portfolio-Screenshot.png" alt="Portfolio-Screenshot" />
+<img src="./Portfolio_Screenshot.png" alt="Portfolio-Screenshot" />
 
 ## Install Dependencies:
 
@@ -51,4 +51,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-&copy; 2023 - Made With ❤️ By <a href="https://www.linkedin.com/in/adnan-sameer-785103201/"><b>Adnan Sameer</b></a>
+&copy; 2023 - Made With ❤️ By <a href="https://www.linkedin.com/in/abdullah-siddiqui-a905ba208/"><b>Abdullah Siddiqui</b></a>
