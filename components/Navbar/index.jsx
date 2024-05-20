@@ -8,10 +8,10 @@ const Navbar = () => {
   const closeMenu = () => {
     if (!menuOpen) {
       SetMenuOpen(menuOpen);
-      menuOpen = true;
+      // menuOpen = true;
     } else {
       SetMenuOpen(!menuOpen);
-      menuOpen = false;
+      // menuOpen = false;
     }
   };
 

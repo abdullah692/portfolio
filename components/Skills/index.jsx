@@ -1,9 +1,7 @@
 import React, { useState } from "react"
 import data from "./data";
 import FastMarquee from 'react-fast-marquee';
-import { Image, Tooltip } from 'antd';
-import { HeartOutlined, MessageOutlined } from '@ant-design/icons';
-import { LinkOutlined } from '@ant-design/icons';
+
 
 const Experiences = () => {
 
