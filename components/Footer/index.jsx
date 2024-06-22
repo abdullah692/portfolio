@@ -90,7 +90,7 @@ const Footer = () => {
         <h5 className="text-white text-sm text-center leading-6">
           &copy; 2024 - Made with ❤️ by{" "}
           <a
-            href="https://www.linkedin.com/in/adnan-sameer-785103201/"
+            href="https://www.linkedin.com/in/abdullah-siddiqui-a905ba208/"
             target="_blank"
             rel="noreferrer"
             className="font-semibold text-sky-500"
