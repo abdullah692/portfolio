@@ -82,7 +82,7 @@ const Footer = () => {
             </a>
           </li>
         </ul>
-        <h5 className="text-white font-initial text-sm">
+        <h5 className="text-white font-initial text-[12px] sm:text-sm  text-center">
           &copy; 2024 - Abdullah Siddiqui. All Rights Reserved.
         </h5>
       </div>
@@ -93,7 +93,7 @@ const Footer = () => {
             href="https://www.linkedin.com/in/abdullah-siddiqui-a905ba208/"
             target="_blank"
             rel="noreferrer"
-            className="font-semibold text-sky-500"
+            className="font-semibold text-[#be41e8]"
           >
             Abdullah Siddiqui
           </a>{" "}

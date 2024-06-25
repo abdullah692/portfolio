@@ -26,7 +26,7 @@ const Hero = () => {
       I bring over 2 years of industry experience to the table. My focus lies in delivering tailored solutions
       that address the specific requirements of clients, ensuring robust and scalable outcomes
       </p>
-      <div className="my-7 flex justify-start items-center gap-4 flex-wrap">
+      <div className="my-7 flex justify-center sm:justify-start md:justify-start items-center gap-4 flex-wrap ">
         <button
           className="bg-[#301B3F] py-2 px-4 font-bold text-white border-2 border-[#fff] rounded-md ease-in-out duration-150 hover:text-white hover:bg-transparent hover:border-white"
           title="View Resume"
@@ -51,7 +51,7 @@ const Hero = () => {
           </a>
         </button>
       </div>
-      <div className="flex flex-col justify-start items-start gap-3">
+      <div className="flex flex-col justify-center  items-center  sm:!items-start  gap-3">
         <h4 className="text-xl text-white font-bold">Catch me on :</h4>
         <ul className="flex justify-start items-center flex-wrap gap-4">
           <li title="Facebook">

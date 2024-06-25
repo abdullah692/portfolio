@@ -19,12 +19,12 @@ const Contact = () => {
               rel="noreferrer"
             >
               <FaLinkedinIn />
-              <span className="text-sm font-initial">user/abdullahsidd</span>
+              <span className="text-[13px] sm:text-sm font-initial">user/abdullahsidd</span>
             </a>
           </li>
         </ul>
         <ul>
-          <li className="mb-4 text-gray-100 text-md w-max" title="GitHub">
+          <li className="mb-4 ml-5 text-gray-100 text-md  w-max" title="GitHub">
             <a
               href="https://github.com/abdullah692"
               target={"_blank"}
@@ -35,7 +35,7 @@ const Contact = () => {
               <span className="text-sm font-initial">/abdullahsidd</span>
             </a>
           </li>
-          <li className="mb-4 text-gray-100 text-md w-max" title="Twitter">
+          <li className="mb-4 ml-5 text-gray-100 text-md w-max" title="Twitter">
             <a
               href="https://www.facebook.com/muhammadabdullah.siddique"
               target={"_blank"}

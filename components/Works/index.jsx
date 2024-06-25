@@ -34,7 +34,7 @@ const Works = () => {
                     {work.work_title}
                   </h2>
                  
-                  <b className="text-teal-500 mb-2">⎯⎯ {work.genre}</b>
+                  <b className="text-[#be41e8] mb-2">⎯⎯ {work.genre}</b>
                   <p className="text-gray-300 text-sm leading-6 m-0">
                     {work.description}
                   </p>
