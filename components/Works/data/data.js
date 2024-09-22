@@ -18,7 +18,7 @@ const data = [
     description:
     "Genesis Health: Seamlessly book and manage your dentist appointments for a brighter smile.",
     genre: "Health",
-    url: "https://patient-booking-ou0eudmnu-abdullah-siddiquis-projects.vercel.app/",
+    url: "https://gen-health-appointmentbooking.vercel.app/",
   },
   
 ];
