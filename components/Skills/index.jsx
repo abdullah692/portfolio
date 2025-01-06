@@ -10,7 +10,7 @@ const Experiences = () => {
 
   return (
     <div className="max-w-6xl m-auto p-4 pt-8 px-2 sm:pt-20" id="skill">
-      <h1 className="text-4xl text-[#754986] font-bold sm:text-5xl mb-10">
+      <h1 className="text-4xl text-[#0A2540] font-bold sm:text-5xl mb-10">
         Skills
       </h1>
       <FastMarquee pauseOnHover="true">

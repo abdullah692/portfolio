@@ -1,7 +1,7 @@
 import React from "react";
 
 // React Icons
-import { FaLinkedinIn, FaCodepen, FaGithub, FaTwitter } from "react-icons/fa";
+import { FaLinkedinIn, FaCodepen, FaGithub, FaBehance } from "react-icons/fa";
 import { FaFacebookF } from "react-icons/fa";
 
 
@@ -18,7 +18,7 @@ const Footer = () => {
             <a
               href="https://www.linkedin.com/in/abdullah-siddiqui-a905ba208/"
               target={"_blank"}
-              className="ease-in-out duration-150 hover:text-[#be41e8]"
+              className="ease-in-out duration-150 hover:text-[#003F5C]"
               rel="noreferrer"
             >
               <FaLinkedinIn />
@@ -28,20 +28,20 @@ const Footer = () => {
             <a
               href="https://github.com/abdullah692"
               target={"_blank"}
-              className="ease-in-out duration-150 hover:text-[#be41e8]"
+              className="ease-in-out duration-150 hover:text-[#003F5C]"
               rel="noreferrer"
             >
               <FaGithub />
             </a>
           </li>
-          <li className="text-white text-sm" title="Twitter">
+          <li className="text-white text-sm" title="Behance">
             <a
-              href="https://www.facebook.com/muhammadabdullah.siddique"
+              href="https://www.behance.net/abdullasiddiqu7"
               target={"_blank"}
-              className="ease-in-out duration-150 hover:text-[#be41e8]"
+              className="ease-in-out duration-150 hover:text-[#003F5C]"
               rel="noreferrer"
             >
-              <FaFacebookF />
+              <FaBehance />
             </a>
           </li>
         </ul>
@@ -49,7 +49,7 @@ const Footer = () => {
 
       <div className="py-8 flex flex-col gap-4 justify-between items-center max-w-6xl m-auto sm:flex-row sm:gap-0">
         <ul className="flex justify-center items-center gap-4">
-          <li className="text-gray-400 text-sm" title="Experiences">
+          <li className="text-[#0A2540] text-sm" title="Experiences">
             <a
               href="#experiences"
               className="font-bold ease-in-out duration-150 hover:text-white"
@@ -57,7 +57,7 @@ const Footer = () => {
               Experiences
             </a>
           </li>
-          <li className="text-gray-400 text-sm" title="Skills">
+          <li className="text-[#0A2540] text-sm" title="Skills">
             <a
               href="#skill"
               className="font-bold ease-in-out duration-150 hover:text-white"
@@ -65,7 +65,7 @@ const Footer = () => {
               Skills
             </a>
           </li>
-          <li className="text-gray-400 text-sm" title="Projects">
+          <li className="text-[#0A2540] text-sm" title="Projects">
             <a
               href="#projects"
               className="font-bold ease-in-out duration-150 hover:text-white"
@@ -73,7 +73,7 @@ const Footer = () => {
               Projects
             </a>
           </li>
-          <li className="text-gray-400 text-sm" title="Contact">
+          <li className="text-[#0A2540] text-sm" title="Contact">
             <a
               href="#ontact"
               className="font-bold ease-in-out duration-150 hover:text-white"
@@ -93,7 +93,7 @@ const Footer = () => {
             href="https://www.linkedin.com/in/abdullah-siddiqui-a905ba208/"
             target="_blank"
             rel="noreferrer"
-            className="font-semibold text-[#be41e8]"
+            className="font-semibold text-[#0A2540]"
           >
             Abdullah Siddiqui
           </a>{" "}

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import styles from "../../styles/Navbar.module.css";
-import ProfileImage from "../../assets/images/profile1.jpeg";
+import ProfileImage from "../../assets/images/profile.png";
 import Image from "next/image";
 const Navbar = () => {
   const [menuOpen, SetMenuOpen] = useState(false);
@@ -17,7 +17,7 @@ const Navbar = () => {
 
   return (
     <header
-      className={`py-3 px-2 flex justify-between items-center flex-wrap lg:py-7 ${
+      className={`py-3 px-5 sm:px-7  md:px-7 lg:px-7 flex justify-between items-center flex-wrap lg:py-7 ${
         styles.header
       } ${menuOpen ? `${styles.open}` : ""}`}
     >
@@ -26,7 +26,7 @@ const Navbar = () => {
           src={ProfileImage}
           width={100}
           height={100}
-          className={"rounded-full"}
+          className={"rounded-full shadow-md shadow-slate-700"}
           alt={"User Image"}
         />
       </div>
@@ -42,7 +42,7 @@ const Navbar = () => {
           >
             <a
               href="#experiences"
-              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#754986]"
+              className="text-1xs text-[#fff] font-semibold ease-in-out duration-150 hover:text-[#003F5C]"
               onClick={() => closeMenu()}
             >
               Experiences
@@ -51,7 +51,7 @@ const Navbar = () => {
           <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Skills">
             <a
               href="#skill"
-              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#754986]"
+              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#003F5C]"
               onClick={() => closeMenu()}
             >
               Skills
@@ -60,7 +60,7 @@ const Navbar = () => {
           <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Projects">
             <a
               href="#projects"
-              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#754986]"
+              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#003F5C]"
               onClick={() => closeMenu()}
             >
               Projects
@@ -70,7 +70,7 @@ const Navbar = () => {
           <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Contact">
             <a
               href="#contact"
-              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#754986]"
+              className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-[#003F5C]"
               onClick={() => closeMenu()}
             >
               Contact
