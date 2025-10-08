@@ -7,7 +7,7 @@ const Experiences = () => {
   return (
     <div className="max-w-6xl m-auto p-4 pt-8 sm:pt-20 px-2" id="experiences">
       <h1 className="text-3xl text-[#0A2540] font-bold sm:text-4xl sm:leading-10">
-        <span className="text-5xl sm:text-6xl">2</span>
+        <span className="text-5xl sm:text-6xl">2+</span>
         <br /> Years Of Professional Experience.
       </h1>
       <div className="py-6 pt-10 grid lg:grid-cols-3 sm:grid-cols-2 gap-6">
